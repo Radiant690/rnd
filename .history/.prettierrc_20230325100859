@@ -1,0 +1,20 @@
+
+{
+  "printWidth": 80, // maximum line width
+  "tabWidth": 2, // number of spaces per indentation level
+  "useTabs": false, // use spaces instead of tabs
+  "semi": true, // add semicolons at the end of statements
+  "singleQuote": true, // use single quotes for strings
+  "trailingComma": "all", // add trailing commas to all arrays and objects
+  "bracketSpacing": true, // add spaces between brackets and their contents
+  "jsxBracketSameLine": false, // put the closing bracket of a JSX element on a new line
+  "arrowParens": "avoid", // avoid parentheses around single arguments in arrow functions
+  "endOfLine": "auto", 
+  "jsxSingleQuote": false, 
+  "requirePragma": false,
+  "insertPragma": false, 
+  "proseWrap": "always", 
+  "htmlWhitespaceSensitivity": "ignore", 
+  "vueIndentScriptAndStyle": true,
+  "embeddedLanguageFormatting"
+}
